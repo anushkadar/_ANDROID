@@ -88,11 +88,10 @@ lint/tmp/
 .tmpBin/
 *bin/
 *logs/
-*target
+*target/
 *META-INF/
 *out/
 .idea/
 *.iml
 .vscode/
-
 .metadata/
