@@ -83,3 +83,16 @@ lint/generated/
 lint/outputs/
 lint/tmp/
 # lint/reports/
+.project
+.settings/
+.tmpBin/
+*bin/
+*logs/
+*target
+*META-INF/
+*out/
+.idea/
+*.iml
+.vscode/
+
+.metadata/
